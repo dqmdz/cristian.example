@@ -1,0 +1,4 @@
+app:
+  clearblade:
+    configuration: /data/api.json
+
